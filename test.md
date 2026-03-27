@@ -1,19 +1,21 @@
 # Test Cards
 
-## Hypothesis 1: Hypothesis name
+## Hypothesis 1: Student use course planning
 
 **HYPOTHESIS**
-We believe that...
+Student will  cofourse planning stuff
 
 **TEST**
-To verify that we will ....
+conduct interview for stuff
 
 **METRIC**
-And measure ...
+the reaction of the students and their reply for stuff
 
 **CRITERIA**
-We are right if ....
+A substantial amount of student do use course planning
 
 **INTERVIEW QUESTIONS**
 1. Question 1
 2. Question 2
+3. Question 3
+4. Question 4
